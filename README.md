@@ -8,7 +8,7 @@ Inspired by the June 2026 Atomic Arch AUR supply chain attack.
 
 ## Install
 \`\`\`bash
-git clone https://github.com/<yourusername>/aur-pkgbuild-check.git
+git clone https://github.com/Si7li/aur-pkgbuild-check.git
 cd aur-pkgbuild-check
 chmod +x aur-pkgbuild-check.sh
 ./aur-pkgbuild-check.sh
